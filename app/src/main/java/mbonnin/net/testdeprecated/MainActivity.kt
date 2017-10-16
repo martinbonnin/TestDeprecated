@@ -12,7 +12,6 @@ class MainActivity : AppCompatActivity() {
         val v1 = A()
         v1.deprecated()
 
-
         val v2 = B()
         v2.deprecated()
 
